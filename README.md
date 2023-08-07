@@ -1,4 +1,7 @@
 # passwordmanager
+
+Unzip dist.zip to download Application.
+
 A password manager GUI program made with Python. Can be used to generate and store passwords in a text file. 
 
 
